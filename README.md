@@ -1,8 +1,12 @@
 # Finding our community members on Mastodon
 
-This repo contains importable CSV files with the Mastodon addresses of Data Platform, PowerShell and Power BI Twitter communities on Mastodon. It has been compiled using **only publicly available** information.
+This repo contains importable CSV files with the Mastodon addresses of Data Platform, PowerShell and Power BI Twitter communities. It has been compiled using **only publicly available** information.
 
-If you'd like to be included, please add your Mastodon address to your Twitter name, username, bio or pinned Tweet and it'll be added to the CSV around midnight GMT.
+> **Note**
+>
+>  If you'd like to be included, please add your Mastodon address to your Twitter name, username, bio or pinned Tweet and it'll be added to the CSV around midnight GMT.
+>
+> Please also let others know to do the same!
 
 This project has a lot of possiblities and this is just a preview of what's to come. If you're in the data community and would like to add any additional lists, please do!
 
@@ -16,7 +20,7 @@ If you'd like to look at the CSVs now, GitHub makes them pretty and searchable.
 
 # Importing your CSV files
 
-There are a number of ways to import these lists to your Mastodon follow list. 
+There are a number of ways to import these lists to your Mastodon follow list. Here are two.
 
 ## Using the web interface
 
