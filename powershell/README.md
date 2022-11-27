@@ -1,8 +1,8 @@
 # Finding our community members on Mastodon
 
-This repo contains importable CSV files with the Mastodon addresses of the PowerShell community on Mastodon. It has been compiled using **only publicly available** [information.
+This repo contains importable CSV files with the Mastodon addresses of the PowerShell community on Mastodon. It has been compiled using **only publicly available** information.
 
-If you'd like to be included, please add your Mastodon address to your Twitter name, username, bio or pinned Tweet. Then follow any one of these accounts and it'll be added to the CSV around midnight GMT.
+If you'd like to be included, please add your Mastodon address to your Twitter name, username, bio or pinned Tweet. Then follow any one of these accounts and it'll be added to the CSV sometime after midnight GMT.
 
 * [PSConfEU](https://twitter.com/PSConfEU)
 * [PSConfAsia](https://twitter.com/PSConfAsia)

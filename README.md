@@ -4,11 +4,13 @@ This repo contains importable CSV files with the Mastodon addresses of Data Plat
 
 > **Note**
 >
->  If you'd like to be included, please add your Mastodon address to your Twitter name, username, bio or pinned Tweet and it'll be added to the CSV around midnight GMT.
+>  If you'd like to be included, please add your Mastodon address to your Twitter name, username, bio or pinned Tweet and it'll be added to the CSV sometime in the wee hours of the night GMT.
 >
 > Please also let others know to do the same!
 
-This project has a lot of possiblities and this is just a preview of what's to come. If you're in the data community and would like to add any additional lists, please do!
+This project has a lot of possiblities and this is just a preview of what's to come. If you're in the data community and would like to add any additional lists, please do! Also, if you aren't on Mastodon yet and are looking to sign up, we recommend [dataplatform.social](https://dataplatform.social) run by [Daniel Hutmacher](https://dataplatform.social/@dhmacher).
+
+Also, if you're a JavaScript dev, we're [looking for some help](#we-need-help) to improve this project.
 
 # Look how pretty
 
@@ -88,6 +90,6 @@ Any JavaScript programmers available? We need to smash the Mastodon CSV files wi
 
 It would be even cooler to allow them to specify their Mastodon server then automatically make Follow buttons that let them just go down the list and add who they want with the click of a button.
 
-Maybe it could even ask for their API and check to see if they're already freinds and that follow button would be grayed out.
+Maybe it could even ask for their API and check to see if they're already friends and that follow button would be grayed out.
 
 We could put all of this online using GitHub Pages.
