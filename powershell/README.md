@@ -32,4 +32,4 @@ If you'd like any other accounts (user groups, etc), please file an issue.
 
 # Importing
 
-To learn how to import (manually and automatically!), check out the main [README](https://github.com/dataplat/mastodon).
+To learn how to import (manually and automatically!), check out the main [README](https://github.com/dataplat/mastodon#using-the-web-interface).
