@@ -18,7 +18,7 @@ If you'd like to look at the CSVs now, GitHub makes them pretty and searchable.
 
 * [Data Platform Mastodon List](https://github.com/dataplat/mastodon/blob/main/dataplat/mastodon-import.csv)
 * [Power BI Mastodon List](https://github.com/dataplat/mastodon/blob/main/powerbi/mastodon-import.csv)
-* [PowerShell Mastodon List](https://github.com/dataplat/mastodon/blob/main/dataplat/mastodon-import.csv)
+* [PowerShell Mastodon List](https://github.com/dataplat/mastodon/blob/main/powershell/mastodon-import.csv)
 
 # Importing your CSV files
 
