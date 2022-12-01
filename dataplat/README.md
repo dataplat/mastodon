@@ -13,6 +13,7 @@ If you'd like to be included, please add your Mastodon address to your Twitter n
 * [groupbyconf](https://twitter.com/groupbyconf)
 * [SQLServerRadio](https://twitter.com/SQLServerRadio)
 * [EightKbConf](https://twitter.com/EightKbConf)
+* [dbatools](https://twitter.com/psdbatools)
 
 If you'd like any other accounts (user groups, etc), please file an issue.
 
